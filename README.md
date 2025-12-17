@@ -69,7 +69,10 @@ The application provides **real-time impedance analysis**, **interactive circuit
 ```bash
 g++ main.cpp -o circuit_analyzer -lraylib -lopengl32 -lgdi32 -lwinmm
 
-## 🧠 Educational Purpose
+----
+----
+
+###  Educational Purpose
 
 This project is designed for:
 
