@@ -72,30 +72,5 @@ g++ main.cpp -o circuit_analyzer -lraylib -lopengl32 -lgdi32 -lwinmm
 ----
 ----
 
-###  Educational Purpose
-
-This project is designed for:
-
-- Understanding **Series & Parallel Circuits**
-- Learning **Impedance Analysis**
-- Practicing **Data Structures in C++**
-- Applying **GUI programming concepts**
-
----
-
-
-## 🚀 Future Improvements
-
-- User-defined frequency input  
-- Phase angle display  
-- AC voltage/current simulation  
-- Export circuit diagrams  
-- Save/load circuit files  
-
----
-
-## 📜 License
-
-This project is intended for **academic and educational use only**.
 
 
