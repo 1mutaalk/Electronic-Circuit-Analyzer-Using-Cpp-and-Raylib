@@ -5,19 +5,19 @@ The application provides **real-time impedance analysis**, **interactive circuit
 
 ---
 
-## 📌 Features
+## Features
 
-### 🔧 Circuit Construction
+### Circuit Construction
 - Add **Resistors**, **Capacitors**, and **Inductors**
 - Choose **Series** or **Parallel** connection
 - Automatic unique **Component IDs**
 
-### 🔍 Circuit Management
+### Circuit Management
 - Remove components by ID
 - Search components by ID
 - Undo last operation (up to 20 steps)
 
-### 📊 Electrical Analysis
+### Electrical Analysis
 - Calculates:
   - Total **Resistance (R)**
   - Total **Impedance Magnitude |Z|**
@@ -27,7 +27,7 @@ The application provides **real-time impedance analysis**, **interactive circuit
   - Capacitor → `−j/(ωC)`
 - Frequency-based analysis (default: **50 Hz**)
 
-### 🖥️ Visual Interface
+### Visual Interface
 - Interactive GUI using **raylib**
 - Clean **Light Teal / Orange theme**
 - Visual **series and parallel circuit diagrams**
@@ -35,7 +35,7 @@ The application provides **real-time impedance analysis**, **interactive circuit
 
 ---
 
-## 🧮 Supported Circuits
+## Supported Circuits
 
 - Series Circuits
 - Parallel Circuits
@@ -43,7 +43,7 @@ The application provides **real-time impedance analysis**, **interactive circuit
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Language:** C++
 - **Graphics Library:** raylib
@@ -58,7 +58,7 @@ The application provides **real-time impedance analysis**, **interactive circuit
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Prerequisites
 - C++ compiler (GCC / MinGW / MSVC)
